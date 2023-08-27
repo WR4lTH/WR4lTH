@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WR4lTH
 - 👀 I’m interested in All things CyberSecurity Related
-- 🌱 I’m currently learning Python, SQL, Malware Analysis with REMnux and Flare VM
-- 💞️ I’m looking to colloborate and learn from anyone in the Cybersecurity Field
+- 🌱 Specializing Web App Pentesting/All Things BLUE & RED
+- 💞️ I’m looking to colloborate and hack together.
 - 📫 psalms142@gmail.com
 
 <!---
